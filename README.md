@@ -1,10 +1,10 @@
 # lab-3_new
 
-`<!DOCTYPE html>`
+<!DOCTYPE html>
 
-`<html lang="en">`
+<html lang="en">
 
-`<head>`
+<head>
 
     <meta charset="UTF-8">
     
